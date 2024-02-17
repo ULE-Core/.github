@@ -1,7 +1,7 @@
 # ULE 
 
 ULE is a Minecraft Software organization. Also, ULE is a Mincecraft Core, written in Rust.
-- Visit releases: soon 
+- Visit our [projects](https://github.com/orgs/ULE-Core/repositories)
 - Support us: [Boosty](https://boosty.to/distemi)
 - Visit our Discord!
 
